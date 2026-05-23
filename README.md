@@ -26,7 +26,7 @@
 - <b>SonarQube Checks</b>
 ![sonarqube](sonarqube.png)
 
-- <b>OWASP Dependency Check Checks</b>
+- <b>OWASP Dependency Check</b>
 ![owasp](owasp.png)
 
 - <b>Grafana Dashboard</b>
