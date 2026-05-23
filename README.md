@@ -30,4 +30,4 @@
 ![owasp](owasp.png)
 
 - <b>Grafana Dashboard</b>
-![grafana](grafana.png)
+![grafana](grafana-wanderlust.png)
